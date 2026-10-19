@@ -1,0 +1,22 @@
+{
+  "wheel_id": 445,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-105",
+  "project": "retaining-walls-canberra-quotes-explained-ce379d617bf828faafd0a",
+  "parent_t1_ref": "retainingwallcanberra-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining walls canberra quotes explained",
+  "intended_url": "https://sitesau.github.io/retainingwallcanberra-105/",
+  "tier": "T2",
+  "writeback_nonce": "edaec2e9aec42bbe",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-canberra-before-you-start-adc7182906d2d3d387028/",
+      "anchor": "this retaining walls canberra before you start guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
